@@ -1,0 +1,25 @@
+
+Z
+java:S1854+"8Remove this useless assignment to local variable "user".(©Í”äıÿÿÿÿ8¿õİ­‚/
+K
+java:S1481@")Remove this unused "user" local variable.(©Í”äıÿÿÿÿ8ñÑ­‚/
+]	java:S125,"<This block of commented-out lines of code should be removed.(óÜ»úÿÿÿÿÿ8¿õİ­‚/
+]	java:S125E"<This block of commented-out lines of code should be removed.(Îèôèøÿÿÿÿ8ç™Ò­‚/
+T
+java:S1135^"2Complete the task associated to this TODO comment.(¹šÕÍøÿÿÿÿ8Å¼ª­‚/
+E
+java:S1604%"(Make this anonymous inner class a lambda(Ûóä†8¿õİ­‚/
+Z
+java:S1854@"8Remove this useless assignment to local variable "user".(©Í”äıÿÿÿÿ8ñÑ­‚/
+E
+java:S1604;"(Make this anonymous inner class a lambda(Ûóä†8•ğÏ­‚/
+Q
+java:S11449"/Remove this unused private "createUser" method.(€À÷÷ıÿÿÿÿ8•ğÏ­‚/
+T
+java:S1135Q"2Complete the task associated to this TODO comment.(ƒ“Õæûÿÿÿÿ8Å¼ª­‚/
+j	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¨›Ò8 ¥½­‚/
+N
+java:S1602!",Remove useless curly braces around statement(³îëĞÿÿÿÿÿ8§ä€°‚/
+K
+java:S1481+")Remove this unused "user" local variable.(©Í”äıÿÿÿÿ8¿õİ­‚/
+]	java:S1251"<This block of commented-out lines of code should be removed.(Îèôèøÿÿÿÿ8¿õİ­‚/

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#3F51B5</color>-->
+<!--    <color name="colorPrimaryDark">#303F9F</color>-->
+<!--    <color name="colorAccent">#FF4081</color>-->
+
+    <color name="colorPrimary">#00bcd4</color>
+    <color name="colorPrimaryDark">#0097a7</color>
+    <color name="colorAccent">#f2fe71</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="grey_100"> #F5F5F5</color>
+    <color name="grey_300"> #E0E0E0</color>
+    <color name="red_100">#F4C7C3</color>
+    <color name="red_300">#E67C73</color>
+    <color name="red_500">#DB4437</color>
+    <color name="red_700">#C53929</color>
+    <color name="blue_100">#C6DAFC</color>
+    <color name="blue_300">#7BAAF7</color>
+    <color name="blue_500">#4285F4</color>
+    <color name="blue_700">#3367D6</color>
+    <color name="green_100">#B7E1CD</color>
+    <color name="green_300">#57BB8A</color>
+    <color name="green_500">#0F9D58</color>
+    <color name="green_700">#0B8043</color>
+    <color name="yellow_100">#FCE8B2</color>
+    <color name="yellow_300">#F7CB4D</color>
+    <color name="yellow_500">#F4B400</color>
+    <color name="yellow_700">#F09300</color>
+
+    <color name="magnolia_50">#efe5fd</color>
+    <color name="magnolia_100">#d4bff9</color>
+    <color name="teal_300">#4DB6AC</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+</resources>

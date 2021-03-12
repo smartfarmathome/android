@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396614883033",
+    "project_id": "smf-2021",
+    "storage_bucket": "smf-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396614883033:android:56c1fe13a5904fe52f90c8",
+        "android_client_info": {
+          "package_name": "com.smf.smf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396614883033-p9bu7pmiuqb3v2fvstnmcmmf1ltavk9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu30BJNo8ZofJSowgkvuQ4gQRLfxqc-uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396614883033-p9bu7pmiuqb3v2fvstnmcmmf1ltavk9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
