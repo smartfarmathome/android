@@ -72,20 +72,12 @@ public class LoginDataSource {
     }
 
     public Result<LoggedInUser> login(String username, String password) {
-        try {
-            // TODO: handle loggedInUser authentication
-            implSignIn(username, password);
-            LoggedInUser fakeUser =
-                    new LoggedInUser(
-                            UUID.randomUUID().toString(),
-                            "Jane Doe");
-            return new Result.Success<>(fakeUser);
-        } catch (Exception e) {
-            return new Result.Error(new IOException("Error logging in", e));
-        }
+        // TODO
+        return null;
     }
 
     public void logout() {
         // TODO: revoke authentication
+        return;
     }
 }

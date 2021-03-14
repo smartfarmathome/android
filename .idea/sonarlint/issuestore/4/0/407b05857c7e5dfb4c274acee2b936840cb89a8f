@@ -1,16 +1,30 @@
 
 C
-java:S1604p"(Make this anonymous inner class a lambda(«–Âæşÿÿÿÿ
->
-java:S1604d"(Make this anonymous inner class a lambda(Æã¶á
-j
-java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(›Èã‹
+java:S1604."(Make this anonymous inner class a lambda(¢ÏÇ½øÿÿÿÿ
+O
+java:S1135P"2Complete the task associated to this TODO comment.(°ÓÉÍ8¿»÷‚/
+F
+java:S1604"(Make this anonymous inner class a lambda(¢ò•³8íû ö‚/
+y
+java:S1450%"WRemove the "btnReset" field and declare it as a local variable in the relevant methods.(›öÕæúÿÿÿÿ8íû ö‚/
+u
+java:S1450#"SRemove the "auth" field and declare it as a local variable in the relevant methods.(Ú‡›æøÿÿÿÿ8ØÖ­÷‚/
+t
+java:S3776("RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¨Œşÿÿÿÿ8ò¹÷‚/
 C
-java:S1604="(Make this anonymous inner class a lambda(å¾°úÿÿÿÿ
-C
-java:S1604-"(Make this anonymous inner class a lambda(¢ÏÇ½øÿÿÿÿ
-o
-java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(µÕÍÖıÿÿÿÿ
-V	java:S110"<This class has 9 parents which is greater than 5 authorized.(·¡ïõøÿÿÿÿ
+java:S1604>"(Make this anonymous inner class a lambda(å¾°úÿÿÿÿ
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(·¡ïõøÿÿÿÿ
+E
+java:S1604l"(Make this anonymous inner class a lambda(ûú™³8íû ö‚/
+J
+java:S1604s"(Make this anonymous inner class a lambda(ˆ×Üíûÿÿÿÿ8íû ö‚/
+z
+java:S1450%"XRemove the "btnSignup" field and declare it as a local variable in the relevant methods.(›öÕæúÿÿÿÿ8íû ö‚/
+M
+java:S1659""+Declare "inputPassword" on a separate line.(‚ö°ãûÿÿÿÿ8íû ö‚/
 H
-java:S1135|"2Complete the task associated to this TODO comment.(’”´×
+java:S1659%"&Declare "btnLogin" on a separate line.(›öÕæúÿÿÿÿ8íû ö‚/
+H
+java:S1659%"&Declare "btnReset" on a separate line.(›öÕæúÿÿÿÿ8íû ö‚/
+F
+java:S1604˜"(Make this anonymous inner class a lambda(Î§£¿8íû ö‚/

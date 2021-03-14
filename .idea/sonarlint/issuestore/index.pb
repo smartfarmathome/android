@@ -25,3 +25,9 @@ j
 app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
 g
 7app/src/main/java/com/smf/smf/data/LoginDataSource.java,6\9\69326872ae0c2dd4aced7da77919ef37136c9096
+j
+:app/src/main/java/com/smf/smf/ui/login/SignupActivity.java,3\b\3bd25b104f81b696f7c1d39eea105d27e57994b7
+j
+:app/src/main/java/com/smf/smf/data/model/LoggedInUser.java,9\e\9e50b08bce9cdc645f42f74f3b76fa81aadc738a
+k
+;app/src/main/java/com/smf/smf/ui/chat/ContractActivity.java,b\e\be79e0b54b4b3aefe238da47e56169ae74321746
