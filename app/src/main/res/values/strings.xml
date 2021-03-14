@@ -69,12 +69,12 @@
     <string name="toolbar_title">Contacts</string>
     <string name="action_search">Search</string>
     <string name="search_hint">Type name…</string>
+    <string name="action_setting">Settings</string>
 
 
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
     <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
 </resources>

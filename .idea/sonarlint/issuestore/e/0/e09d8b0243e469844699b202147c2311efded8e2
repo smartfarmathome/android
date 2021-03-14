@@ -1,5 +1,17 @@
 
-T
-java:S11355"2Complete the task associated to this TODO comment.(¹¹ÍÏûÿÿÿÿ8Ï¹…ı‚/
-]	java:S1256"<This block of commented-out lines of code should be removed.(“çœşÿÿÿÿ8Ï¹…ı‚/
-Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±
+O
+java:S1199]"-Extract this nested code block into a method.(ùÅ«ÿÿÿÿÿ8ò„Öƒ/
+‰
+java:S3252D"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(â½Ù˜øÿÿÿÿ8ù…æŒƒ/
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±8µØ›Šƒ/
+j
+java:S1871]"HThis case's code block is the same as the block for the case on line 88.(ùÅ«ÿÿÿÿÿ8ò„Öƒ/
+m
+java:S1301A"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8ÈâŒƒ/
+C	java:S131W""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8¯˜Òƒ/
+W	java:S125b"<This block of commented-out lines of code should be removed.(ÿä¨8Âœ×ƒ/
+m
+java:S1301W"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8¯˜Òƒ/
+J
+java:S1199X"-Extract this nested code block into a method.(ó¹Ê8¯˜Òƒ/
+]	java:S1253"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8˜ŸëŒƒ/

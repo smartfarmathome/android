@@ -31,3 +31,5 @@ j
 :app/src/main/java/com/smf/smf/data/model/LoggedInUser.java,9\e\9e50b08bce9cdc645f42f74f3b76fa81aadc738a
 k
 ;app/src/main/java/com/smf/smf/ui/chat/ContractActivity.java,b\e\be79e0b54b4b3aefe238da47e56169ae74321746
+a
+1app/src/main/java/com/smf/smf/SMFApplication.java,b\3\b3099a5f9ed80156d8d80163a6470f742acd2a37

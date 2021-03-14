@@ -1,5 +1,7 @@
 package com.smf.smf.data.model;
 
+import com.google.gson.JsonParser;
+
 public class ChatMessage {
 	private String uid, fromName, message;
 
@@ -8,14 +10,23 @@ public class ChatMessage {
 	public static String CHAT_SENDER_UID = "senderUid";
 	public static String CHAT_SENDER_NAME = "senderName";
 	public static String CHAT_MESSAGE = "message";
+	private boolean myself = false;
 
 	public ChatMessage() {
+	}
+
+	public String getUid() {
+		return uid;
 	}
 
 	public ChatMessage(String uid, String fromName, String message) {
 		this.uid = uid;
 		this.fromName = fromName;
-		this.message = message;
+		this.message = JsonParser.parseString(message).getAsJsonObject().get("message").toString();
+	}
+
+	public void setMyself(boolean myself) {
+		this.myself = myself;
 	}
 
 	public String getFromName() {
@@ -36,7 +47,7 @@ public class ChatMessage {
 
 	public boolean isSelf() {
 		// TODO: check it is myself
-		return false;
+		return myself;
 	}
 
 	@Override

@@ -21,7 +21,6 @@
             android:background="?attr/colorPrimaryDark"
             app:layout_scrollFlags="scroll|enterAlways"
             app:popupTheme="@style/Theme.PopupOverlay" />
-
     </com.google.android.material.appbar.AppBarLayout>
 
     <com.google.android.material.navigation.NavigationView
@@ -31,7 +30,7 @@
         android:layout_gravity="start"
         android:fitsSystemWindows="true"
         app:headerLayout="@layout/nav_header_main"
-        app:menu="@menu/activity_main_drawer" />
+        app:menu="@menu/menu_main_drawer" />
 
     <include
         layout="@layout/app_bar_main"

@@ -69,6 +69,7 @@ public class ChatActivity extends AppCompatActivity {
 
 		loginViewModel = new ViewModelProvider(this, new LoginViewModelFactory())
 				.get(LoginViewModel.class);
+		loggedInUser = loginViewModel.getUser();
 
 		FirebaseDatabase database = FirebaseDatabase.getInstance();
 		DatabaseReference myRef = database.getReference(CHAT_DATABASE_PATH);
@@ -79,6 +80,9 @@ public class ChatActivity extends AppCompatActivity {
 				// This method is called once with the initial value and again
 				// whenever data at this location is updated.
 				ChatMessage chatMessage = dataSnapshot.getValue(ChatMessage.class);
+				if( loggedInUser != null && loggedInUser.getUserId().equals(chatMessage.getUid()) ) {
+					chatMessage.setMyself(true);
+				}
 
 				Log.d(TAG, String.format("Got string message! %s", chatMessage));
 

@@ -1,5 +1,6 @@
 package com.smf.smf.ui.notifications;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,6 +14,8 @@ import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
 import com.smf.smf.R;
+import com.smf.smf.ui.chat.ChatActivity;
+import com.smf.smf.ui.chat.ContractActivity;
 
 public class NotificationsFragment extends Fragment {
 
@@ -30,6 +33,9 @@ public class NotificationsFragment extends Fragment {
                 textView.setText(s);
             }
         });
+
+        startActivity(new Intent(getActivity(), ContractActivity.class));
+
         return root;
     }
 }

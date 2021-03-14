@@ -46,7 +46,7 @@ public class ContractActivity extends AppCompatActivity implements ContactsAdapt
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_contract);
-        Toolbar toolbar = findViewById(R.id.toolbar);
+        Toolbar toolbar = findViewById(R.id.contract_toolbar);
         setSupportActionBar(toolbar);
 
         // toolbar fancy stuff
