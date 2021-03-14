@@ -8,6 +8,22 @@
     android:fitsSystemWindows="true"
     tools:openDrawer="start">
 
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/Theme.AppBarOverlay"
+        app:elevation="0dp">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/main_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimaryDark"
+            app:layout_scrollFlags="scroll|enterAlways"
+            app:popupTheme="@style/Theme.PopupOverlay" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
     <com.google.android.material.navigation.NavigationView
         android:id="@+id/nav_drawer_view"
         android:layout_width="wrap_content"

@@ -14,7 +14,8 @@
         android:theme="@style/Theme.Smf">
         <activity
             android:name=".MainActivity"
-            android:label="@string/app_name">
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Smf.NoActionBar">
         </activity>
 
         <activity
